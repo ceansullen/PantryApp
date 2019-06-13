@@ -1,0 +1,10 @@
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\bin\Debug\Psuedo Pantry App.exe.config
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\bin\Debug\Psuedo Pantry App.exe
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\bin\Debug\Psuedo Pantry App.pdb
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo Pantry App.csprojAssemblyReference.cache
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo_Pantry_App.login.resources
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo_Pantry_App.Properties.Resources.resources
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo Pantry App.csproj.GenerateResource.cache
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo Pantry App.csproj.CoreCompileInputs.cache
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo Pantry App.exe
+C:\Users\sean_cullen\source\repos\Psuedo Pantry App\Psuedo Pantry App\obj\Debug\Psuedo Pantry App.pdb
